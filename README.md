@@ -1,0 +1,1 @@
+# Parallel-Implementation-of-Line-Segment-Simplification
