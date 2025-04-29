@@ -45,4 +45,5 @@ Results(Execution times) were shown in Graphs.
 Clone the repository and compile the programs using a C++ compiler with OpenMP support (e.g., g++ -fopenmp). Provide input files with coordinate data and follow prompts to generate output and benchmark files.
 
 g++ -fopenmp file_name.cpp -o output_file_name
+
 ./output_file_name
